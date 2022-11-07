@@ -2,8 +2,7 @@
 // See the docs for more: https://jestjs.io/docs/using-matchers
 
 /* eslint-disable no-undef */
-const sum = require('./sum');
-
+import sum from './sum';
 // .toBe() is a "matcher" that uses Object.is to check exact equality
 test('adds 1 + 2 to equal 3', () => {
     expect(sum(1,2)).toBe(3);

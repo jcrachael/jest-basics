@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jcrachael/jest-basics#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
     "css-loader": "^6.7.1",
     "eslint": "^8.27.0",
     "eslint-config-prettier": "^8.5.0",
