@@ -2,7 +2,7 @@
 
 Basic test driven development examples using [Jest](https://jestjs.io/).
 
-Projcet sourced from [The Odin Project JavaScript course](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics).
+Projcet sourced from [The Odin Project JavaScript course](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice).
 
 
 
